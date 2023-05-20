@@ -23,7 +23,3 @@ The application comprises three main files:
 2. Click the 'add' button.
 3. Now you can see your tasks in the list, which can be checked off, edited, or deleted as required.
 4. Use the 'clear all' or 'clear done' buttons for bulk deletion of tasks.
-
-## Contribution :handshake:
-
-Feel free to fork this project, make changes in your branch, and create a pull request. Your contributions are more than welcome!
