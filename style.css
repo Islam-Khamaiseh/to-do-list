@@ -1,0 +1,167 @@
+.container {
+    position: absolute;
+    width: 900px;
+    height: 1000px;
+    margin-left: 27%;
+    margin-top: 200px;
+}
+
+#lists-container {
+    background-color: #e7cdb6;
+    width: 360px;
+    margin-left: 20px;
+}
+
+#todo-list {
+    padding: 0;
+    margin: 0;
+}
+
+#img {
+    position: absolute;
+    width: 900px;
+    height: 1000px;
+    z-index: -1;
+    border-radius: 50px;
+}
+
+#sec-container {
+    position: absolute;
+    margin-left: 175px;
+    margin-top: 293px;
+    background-color: #e7cdb6;
+    width: 500px;
+    height: 640px;
+    border-radius: 20px;
+}
+
+#input-container {
+    margin: 20px;
+
+}
+
+
+#add-task {
+    position: absolute;
+    font-size: 24px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #c99e67;
+    border: none;
+    border-radius: 50px;
+    margin-left: 190px;
+    margin-top: -23px;
+    color: #4a3931;
+    font-family: cursive;
+
+}
+
+#clear-done {
+    float: right;
+    margin-left: 10px;
+    padding: 0px;
+    background-color: #f7accd;
+    border: none;
+    border-radius: 5px;
+    margin-top: 230px;
+    margin-right: 282px;
+    font-size: 15px;
+    font-family: cursive;
+}
+
+#clear-all {
+    float: left;
+    padding: 0px;
+    background-color: #f7accd;
+    border: none;
+    border-radius: 5px;
+    margin-top: 237px;
+    margin-left: 235px;
+    font-size: 15px;
+    font-family: cursive;
+}
+
+
+#lists-container {
+    width: 450px;
+    margin-left: 25px;
+    font-family: cursive;
+}
+
+#input-task {
+    border-color: #c99e67;
+    border-radius: 20px;
+    width: 200px;
+    height: 20px;
+    margin-left: 120px;
+    margin-top: 5px;
+    margin-bottom: 0;
+    font-family: cursive;
+    border: 3px solid #c99e67;
+    box-shadow: #c99e67 2px 2px 0 0;
+
+}
+
+
+#remove {
+    float: right;
+    background-color: #f7accd;
+    border: none;
+    border-radius: 5px;
+    font-family: cursive;
+}
+
+#input {
+    accent-color: #99e7e7;
+}
+
+#edit {
+    float: right;
+    margin-right: 10px;
+    background-color: #c99e67;
+    border: none;
+    border-radius: 5px;
+    font-family: cursive;
+    accent-color: #99e7e7;
+    position: absolute;
+    margin-left: 330px;
+    visibility: visible;
+}
+
+#editBox {
+    position: absolute;
+    visibility: hidden;
+    font-family: cursive;
+}
+
+#label {
+    position: absolute;
+    visibility: visible;
+}
+
+#save {
+    position: absolute;
+    float: right;
+    visibility: hidden;
+    margin-right: 10px;
+    background-color: #97d63c;
+    border: none;
+    border-radius: 5px;
+    font-family: cursive;
+    accent-color: #99e7e7;
+    margin-left: 260px;
+}
+
+#cancel {
+    position: absolute;
+    float: right;
+    margin-left: 310px;
+    visibility: hidden;
+    margin-right: 10px;
+    background-color: #ff3333;
+    border: none;
+    border-radius: 5px;
+    font-family: cursive;
+    accent-color: #99e7e7;
+}
