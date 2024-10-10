@@ -1,6 +1,6 @@
 # To-Do List Application
 
-Demo link: https://64692b82268c135aaed04e7d--spontaneous-panda-259c57.netlify.app/
+Demo link: https://spontaneous-panda-259c57.netlify.app/
 
 This is a basic yet useful To-Do List application built with HTML, CSS, and JavaScript. It allows users to manage their tasks effectively.
 
